@@ -1,0 +1,6 @@
+<p>
+    booking-main works!
+</p>
+
+<app-available-vacations *ngIf="currentRoute==='/booking/booking-main'"></app-available-vacations>
+<app-vacation-detail *ngIf="currentRoute.startsWith('/booking/vacation-detail/')"></app-vacation-detail>
