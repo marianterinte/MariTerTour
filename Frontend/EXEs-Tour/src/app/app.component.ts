@@ -15,7 +15,6 @@ export class AppComponent implements OnInit {
       { path: 'home', label: 'Home' },
       { path: 'booking', label: 'Book A Vacation' },
       { path: 'contact', label: 'Contact Us' }
-
     ];
   }
 

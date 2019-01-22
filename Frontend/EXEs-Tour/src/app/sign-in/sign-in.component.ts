@@ -11,18 +11,15 @@ export class SignInComponent implements OnInit {
 
   constructor(public dialog: MatDialog) {}
 
-  ngOnInit() {
-
+  ngOnInit() { 
   }
-
-
+ 
   onSignInClick(){
 
      this.dialog.open(LoginComponent, {
       height: '400px',
       width: '600px',
-    });
-
+    }); 
   }
 
 }
