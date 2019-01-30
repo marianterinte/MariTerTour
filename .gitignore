@@ -3,3 +3,14 @@
 ################################################################################
 
 /Backend/EXEsTour/EXEsTour/bin/Debug/netcoreapp2.2
+/Backend/EXEsTour/EXEsTour/obj/Debug/netcoreapp2.2
+/Backend/EXEsTour/EXEsTour.Bussines/bin/Debug/netcoreapp2.2
+/Backend/EXEsTour/EXEsTour.Bussines/obj
+/Backend/EXEsTour/EXEsTour.Domain/bin/Debug/netcoreapp2.2
+/Backend/EXEsTour/EXEsTour.Domain/obj
+/Backend/EXEsTour/EXEsTour.Shared/obj
+/Backend/EXEsTour/EXEsTour/obj
+/Backend/EXEsTour/EXEsTour.Tests/bin/Debug/netcoreapp2.2
+/Backend/EXEsTour/EXEsTour.Tests/obj
+/Backend/EXEsTour/EXEsTour.Shared/bin/Debug/netcoreapp2.2
+/Backend/EXEsTour/.vs/EXEsTour/v15/Server/sqlite3

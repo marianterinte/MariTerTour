@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Frontend"
+    "\\Frontend",
+    "\\Frontend\\EXEs-Tour",
+    "\\Frontend\\EXEs-Tour\\src"
   ],
+  "SelectedNode": "\\Frontend\\EXEs-Tour\\src\\main.ts",
   "PreviewInSolutionExplorer": false
 }

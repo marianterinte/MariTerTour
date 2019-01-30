@@ -50,7 +50,7 @@ export function getAuthServiceConfigs() {
     {
     provide: AuthServiceConfig,
     useFactory: getAuthServiceConfigs,
-    AuthService,
+    // AuthService,
   }],
   bootstrap: [AppComponent],
   entryComponents: [LoginComponent]
