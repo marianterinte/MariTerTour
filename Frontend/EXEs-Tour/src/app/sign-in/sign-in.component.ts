@@ -11,7 +11,8 @@ export class SignInComponent implements OnInit {
 
   constructor(public dialog: MatDialog) {}
 
-  ngOnInit() { 
+  ngOnInit() {
+    //Test
   }
  
   onSignInClick(){
